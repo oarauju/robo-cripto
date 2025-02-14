@@ -1,4 +1,4 @@
-impor# Gráfico de Preço do Ethereum atualizado.
+# Gráfico de Preço do Ethereum atualizado.
 # Seleção de períodos para análise.
 # Métricas chave sobre o preço do Ethereum.
 
